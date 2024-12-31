@@ -1,2 +1,2 @@
-# Sistemas-Cognitivos-
+# Sistemas-Cognitivos
 Trabalho para Disciplina Sistemas Cognitivos - POLI USP
